@@ -1,7 +1,7 @@
 # Hi there 👋🏻
 I'm Chhanna from Queens, NY. I'm a Army Vetaran and data enthusiast. I love data analysis.
 
-![Image of myself]
+![Image of Yaktocat]
 (https://drive.google.com/file/d/1-Ttm3b99uKhzfy5OxUeidad0X62VoWQT/view?usp=sharing)
 
 ## Skills
