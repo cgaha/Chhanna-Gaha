@@ -1,25 +1,18 @@
-# portfolio
+# Hi there 👋🏻
+I'm Chhanna from Queens, NY. I'm a Army Vetaran and data enthusiast. I love data analysis.
 
-This is my portfolio page.
-hello there
+## Skills
+* Microsoft Excel
+* SQL (MySql, Sqlite)
+* Python
+* Power BI
 
-Army Veteran Data Analysis
-Aaaa
+## Projects
 
-Ddd
-Ffff
-
-
-
-Yyyg
-Hhhh
-
-Hhhh
-Gggg
+## Contacts
+Email:chhanna.b.gaha@gmail.com
 
 
 
-Ffggfg
-1111
 
-https://www.linkedin.com/in/chhannagaha/
+
