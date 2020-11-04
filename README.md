@@ -10,15 +10,6 @@ I'm Chhanna from Queens, NY. I'm a Army Vetaran and data enthusiast. I love data
 * Power BI
 
 
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://photos.google.com/u/2/search/_tra_/photo/AF1QipOXo78cB1DA8KpI9Rn5OJf83Bqs81iixzJeSAHC)
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
 - 📫 How to reach me: chhanna.b.gaha@gmail.com 
 
 
