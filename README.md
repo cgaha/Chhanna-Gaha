@@ -9,10 +9,6 @@ I'm Chhanna from Queens, NY. I'm a Army Vetaran and data enthusiast. I love data
 * Python
 * Power BI
 
-## Projects
-
-## Contacts
-Email:chhanna.b.gaha@gmail.com
 
 ### Hi there 👋, my name is Arturs
 #### I am GitHub Readme Generator's creator
