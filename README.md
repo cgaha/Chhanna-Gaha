@@ -1,6 +1,9 @@
 # Hi there 👋🏻
 I'm Chhanna from Queens, NY. I'm a Army Vetaran and data enthusiast. I love data analysis.
 
+![Image of myself]
+(https://https://photos.app.goo.gl/iAnMmAiQjarBNDbX6)
+
 ## Skills
 * Microsoft Excel
 * SQL (MySql, Sqlite)
