@@ -4,6 +4,7 @@ I'm Chhanna from Queens, NY. I'm a Army Vetaran and data enthusiast. I love data
 ## Skills
 * Microsoft Excel
 * SQL (MySql, Sqlite)
+* HTML, CSS
 * Python
 * Power BI
 
