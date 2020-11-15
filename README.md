@@ -21,7 +21,7 @@ I'm Chhanna from Queens, NY. I'm a Army Vetaran and data enthusiast. I love data
 #### 📫 How to reach me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height="20">](https://github.com/cgaha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height="20">](https://www.linkedin.com/in/chhannagaha//) 
 <a href="mailto:chhanna.b.gaha@gmail.com?">
-<img src="https://img.icons8.com/ios-filled/50/000000/gmail.png"/></a>
+<img src='https://img.icons8.com/ios-filled/50/000000/gmail.png' height="20"/></a>
 
 
 
