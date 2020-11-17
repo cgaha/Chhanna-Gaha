@@ -18,7 +18,7 @@ I'm Chhanna from Queens, NY. I'm a Army Vetaran and data enthusiast. I love data
 * Power BI
 
 ## Projects
-*Coming Soon
+_Coming Soon_
 
 
 ### 📫 How to reach me:
