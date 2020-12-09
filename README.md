@@ -18,14 +18,15 @@ I'm Chhanna from Queens, NY. I'm a Army Vetaran and data enthusiast. I love data
 * Power BI
 
 ## Projects
-Excel Project
-______
-Power BI Project
-______
-SQL Project
-______
-Python Project
-______
+
+#### Excel Project
+
+#### Power BI Project
+
+#### SQL Project
+
+#### Python Project
+
 
 
 ### 📫 How to reach me:
